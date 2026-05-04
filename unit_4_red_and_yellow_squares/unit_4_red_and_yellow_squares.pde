@@ -6,7 +6,7 @@
  noFill();
  stroke(247,247,30);
  square(x,y, 100);
- square(x+15,y+15,60);
+ square(x+20,y+20,60);
  square(x+45,y+45,10);
     }
   }
@@ -15,7 +15,7 @@
  noFill();
  stroke(247,247,30);
  square(x,y, 100);
- square(x+15,y+15,60);
+ square(x+20,y+20,60);
  square(x+45,y+45,10);
     }
   }
